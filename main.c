@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include "utils/ui.h"
 
 int main(void) {
-    printf("Hello, World!\n");
+    banner();
     return 0;
 }

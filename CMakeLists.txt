@@ -3,4 +3,4 @@ project(BRAIN C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(BRAIN main.c)
+add_executable(BRAIN main.c ui.c)
